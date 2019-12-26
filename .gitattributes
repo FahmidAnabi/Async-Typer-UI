@@ -10,4 +10,4 @@
 *.gitattributes text
 *.gitignore text
 *.md text
-*.html linguist-language=Javascript
+*.css linguist-language=Javascript
